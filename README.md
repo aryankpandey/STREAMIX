@@ -124,7 +124,7 @@ STREAMIX/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/streamix.git
+git clone https://github.com/aryankpandey/streamix.git
 cd streamix
 ```
 
