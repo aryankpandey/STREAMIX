@@ -2,7 +2,7 @@
 
 > A modern Netflix-inspired streaming platform built with cutting-edge web technologies, featuring authentication, movie browsing, trailers, personalized recommendations, and a premium user experience.
 
-<img width="500" height="200" alt="Screenshot 2026-07-04 215840" src="https://github.com/user-attachments/assets/d5d100fc-cc83-4eb9-b0db-121e7977298b" />
+<img width="500" height="250" alt="Screenshot 2026-07-04 215840" src="https://github.com/user-attachments/assets/d5d100fc-cc83-4eb9-b0db-121e7977298b" />
 
 
 
