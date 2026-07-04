@@ -2,7 +2,8 @@
 
 > A modern Netflix-inspired streaming platform built with cutting-edge web technologies, featuring authentication, movie browsing, trailers, personalized recommendations, and a premium user experience.
 
-![STREAMIX Banner](./assets/banner.png)
+<img width="400" height="350" alt="Screenshot 2026-07-04 215840" src="https://github.com/user-attachments/assets/de8e97f1-20f5-4a97-a136-19b174ade380" />
+
 
 ## 🚀 Overview
 
