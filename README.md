@@ -16,6 +16,10 @@ STREAMIX is a full-stack video streaming platform inspired by Netflix. It provid
 The project demonstrates modern software engineering practices, scalable architecture, API integration, and production-ready frontend development.
 
 ---
+## Live URL
+https://streamix-raugw74.public.builtwithrocket.new
+
+---
 
 ## ✨ Features
 
