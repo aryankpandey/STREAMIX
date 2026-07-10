@@ -2,7 +2,11 @@
 
 > A modern Netflix-inspired streaming platform built with cutting-edge web technologies, featuring authentication, movie browsing, trailers, personalized recommendations, and a premium user experience.
 
-<img width="500" height="250" alt="Screenshot 2026-07-04 215840" src="https://github.com/user-attachments/assets/d5d100fc-cc83-4eb9-b0db-121e7977298b" /> <img width="500" height="250" alt="Screenshot 2026-07-04 215902" src="https://github.com/user-attachments/assets/640120c7-b1ee-443b-afc9-7b2764856975" /> <img width="500" height="250" alt="Screenshot 2026-07-04 215922" src="https://github.com/user-attachments/assets/4a4fe0fc-377c-44bf-a4fb-fbfec2731be0" /> <img width="500" height="250" alt="Screenshot 2026-07-04 215936" src="https://github.com/user-attachments/assets/3fc1bf25-eae1-4a85-abaf-fccd6ca15381" />
+<img width="500" height="250" alt="Screenshot 2026-07-04 215840" src="https://github.com/user-attachments/assets/d5d100fc-cc83-4eb9-b0db-121e7977298b" /> <img width="500" height="250" alt="Screenshot 2026-07-04 215902" src="https://github.com/user-attachments/assets/640120c7-b1ee-443b-afc9-7b2764856975" /> <img width="500" height="250" alt="Screenshot 2026-07-04 215922" src="https://github.com/user-attachments/assets/4a4fe0fc-377c-44bf-a4fb-fbfec2731be0" /> <img width="500" height="250" alt="Screenshot 2026-07-04 215936" src="https://github.com/user-attachments/assets/3fc1bf25-eae1-4a85-abaf-fccd6ca15381" /> <img width="500" height="250" alt="Screenshot 2026-07-10 182625" src="https://github.com/user-attachments/assets/d0e53cd2-1450-45d6-b7fc-92a7ad76dc58" />
+
+
+
+
 
 
 
